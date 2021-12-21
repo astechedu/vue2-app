@@ -180,3 +180,4 @@ So before the declaration of our <router-view></router-view> in the component, l
 <router-link v-bind:to="'/about'">About</router-link>
 ```
 
++1
