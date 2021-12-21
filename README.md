@@ -1,3 +1,4 @@
+![](https://avatars.githubusercontent.com/u/75734516?s=48&v=4) 
 # Using Vue 2, Build A Simple Single Page Application
 
 ## Introduction
@@ -180,4 +181,4 @@ So before the declaration of our <router-view></router-view> in the component, l
 <router-link v-bind:to="'/about'">About</router-link>
 ```
 
-+1
+:+1:
