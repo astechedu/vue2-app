@@ -6,8 +6,10 @@ Today, we will be learning how to build a single-page application using Vue.js.
 Vue.js is a library for building interactive web interfaces. It provides data-reactive components with a simple and flexible API.
 
 Getting started with the Vue CLI
-``
+
+```
 npm install -g vue-cli
+
 ```
 
 ```
@@ -21,6 +23,7 @@ we would need to change into the directory of our application:
 ```
 cd spa
 ```
+
 Install the modules:
 
 ```
@@ -32,6 +35,7 @@ Run the development server:
 ```
 npm run dev
 ```
+
 ## Installing and configuring the Vue router
 
 
