@@ -1,7 +1,7 @@
 ![](https://avatars.githubusercontent.com/u/75734516?s=48&v=4) 
 # Using Vue 2, Build A Simple Single Page Application
 
-## Introduction
+#### Introduction
 
 Today, we will be learning how to build a single-page application using Vue.js.
 Vue.js is a library for building interactive web interfaces. It provides data-reactive components with a simple and flexible API.
@@ -37,7 +37,7 @@ Run the development server:
 npm run dev
 ```
 
-## Installing and configuring the Vue router
+#### Installing and configuring the Vue router
 
 
 Install Vue Router by running the following command.
