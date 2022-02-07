@@ -1,4 +1,6 @@
-![](https://avatars.githubusercontent.com/u/75734516?s=48&v=4) 
+<img src="https://vuejs.org/images/logo.png" width="300" height="200">
+
+
 # Using Vue 2, Build A Simple Single Page Application
 
 #### Introduction
