@@ -1,4 +1,5 @@
 <img src="https://vuejs.org/images/logo.png" width="150" height="150">
+
 ![my image](https://vuejs.org/images/logo.png)
 
 # Using Vue 2, Build A Simple Single Page Application
