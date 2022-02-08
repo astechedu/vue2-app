@@ -2,7 +2,7 @@
 
 ![](https://vuejs.org/images/logo.png =150)
 
-[[https://vuejs.org/images/logo.png|width=100px]]
+[[https://vuejs.org/images/logo.png |width=100px]]
 
 # Using Vue 2, Build A Simple Single Page Application
 
