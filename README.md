@@ -1,11 +1,5 @@
 <img src="https://vuejs.org/images/logo.png" width="150" height="150">
 
-![](https://vuejs.org/images/logo.png =150)
-
-[[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png|width=100px]]
-
-# Using Vue 2, Build A Simple Single Page Application
-
 #### Introduction
 
 Today, we will be learning how to build a single-page application using Vue.js.
